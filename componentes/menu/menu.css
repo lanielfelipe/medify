@@ -1,0 +1,62 @@
+html,body{
+    width: 20vw;
+    height: 100vh;
+    background-color: aliceblue;
+}
+
+
+
+
+.logo{
+    font-family: gill sans;
+    color: rgb(47, 172, 5);
+    display: flex;
+    font-size: 200%;
+    margin-left: 10%;
+    margin: 0;
+    padding: 0;
+
+
+}
+
+.menu{
+    width: 15vw;
+    height:105%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border: 3px rgb(0, 0, 0) solid;
+}
+summary{
+    font-size: 130%;
+    color: rgb(34, 203, 34);
+    font-family: gill sans;
+}
+a{
+    display: flex;
+    flex-direction: column;
+    font-size: 110%;
+    color: rgb(6, 168, 0);
+    text-decoration: none;
+}
+
+.b1{
+ color: rgb(255, 0, 0);
+width: 100%;
+padding: 5px;
+ border-color: rgb(255, 0, 0);
+ background-color: rgb(255, 0, 0);
+ 
+}
+
+.b1:hover{
+    color: rgb(0, 0, 0);
+    background-color: red;
+  
+
+}
+
+
+nav{
+    height: 74% ;
+}
